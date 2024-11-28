@@ -1,0 +1,31 @@
+#linha {
+    border: 1px solid green;
+}
+
+.description-text {
+    font-size: 13px;
+}
+
+.div-facilities {
+    width: 325px;
+}
+
+.custom-text-yellow {
+    color: #DAFF01;
+}
+
+.bg-yellow {
+    background-color: #DAFF01;
+}
+
+.bg-indigo {
+    background-color: #9353ff;
+}
+
+.bg-indigo:hover {
+    background-color: #9353ff;
+}
+
+.price {
+    font-weight: bold;
+}
