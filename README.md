@@ -17,18 +17,18 @@ A **Meteora Shop** é uma aplicação de e-commerce projetada para oferecer uma 
 
 --- 
 
-## Funcionalidades 💻
+## 💻 Funcionalidades 
 - Menu responsivo para todos os tipos de dispositivos. 
 - Carrossel com efeito de rolagem automática.
 
 ---
 
-## Requisitos de instalação ⚙️
+## ⚙️ Requisitos de instalação 
 O projeto não apresenta nenhum tipo de requisito para seu funcionamento.
 
 ---
 
-## Como executar o projeto 🚀
+## 🚀 Como executar o projeto 
 1. Clone o repositório:
 ```JavaScript
 git clone https://caiohluwi.github.io/meteora-shop/
@@ -41,7 +41,7 @@ cd meteora-shop
 
 --- 
 
-## Estrutura de pastas 📁
+## 📁 Estrutura de pastas 
 
 ```
 -Meteora-shop/
