@@ -12,7 +12,7 @@ Uma loja virtual moderna e estética para todos os tipos de públicos.
 
 ---
 
-## Visão Geral 🎯
+## 🎯 Visão Geral
 A **Meteora Shop** é uma aplicação de e-commerce projetada para oferecer uma boa experiência para o usuário final, com responsividade para todos os tipos de dispositivos: **Desktop**, **Tablet** e **Mobile**.
 
 --- 
