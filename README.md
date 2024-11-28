@@ -6,6 +6,9 @@ Uma loja virtual moderna e estética para todos os tipos de públicos.
 ## Sumário
 - [Visão Geral](#-visão-geral)
 - [Funcionalidades](#funcionalidades)
+- [Requisitos de instalação](#requisitos-de-instalação)
+- [Como executar o projeto](#como-executar-o-projeto)
+- [Estrutura de pastas](#estrutura-de-pastas)
 
 ---
 
@@ -17,6 +20,11 @@ A **Meteora Shop** é uma aplicação de e-commerce projetada para oferecer uma 
 ## Funcionalidades 💻
 - Menu responsivo para todos os tipos de dispositivos. 
 - Carrossel com efeito de rolagem automática.
+
+---
+
+## Requisitos de instalação ⚙️
+O projeto não apresenta nenhum tipo de requisito para seu funcionamento.
 
 ---
 
@@ -33,9 +41,23 @@ cd meteora-shop
 
 --- 
 
-## Estrutura de pastas
+## Estrutura de pastas 📁
 
+```
 -Meteora-shop/
-|-- assets
+|-- assets/
 |  |-- css/
-    |-- style.css
+|    |-- style.css
+|   |-- img/
+|      |-- Desktop/
+|         |-- categorias/
+|         |-- imagens cards/
+|      |-- Tablet/
+|         |-- categorias/
+|         |-- imagens cards/
+|      |-- Mobile/
+|         |-- categorias/
+|         |-- imagens cards/
+|   |-- favicon-64px.ico
+|-- index.html
+```
